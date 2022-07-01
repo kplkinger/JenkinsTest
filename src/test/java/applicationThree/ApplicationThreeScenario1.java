@@ -8,14 +8,14 @@ public class ApplicationThreeScenario1 {
 	void testplus()
 	
 	{
-		System.out.println("I am Application 3.1.1 test");
+		System.out.println("I am web test case 1");
 	}
 
 	@Test
 	void testplustwo()
 	
 	{
-		System.out.println("I am Application 3.1.1 test");
+		System.out.println("I am web test case 2");
 	}
 
 }
